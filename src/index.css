@@ -1,0 +1,15 @@
+/* setting reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Temp anchor tag style */
+
+a {
+  text-decoration: none;
+  color: goldenrod;
+}
