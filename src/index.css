@@ -13,3 +13,14 @@ a {
   text-decoration: none;
   color: goldenrod;
 }
+
+/* header styles */
+
+.boots-logo {
+  width: 200px;
+  height: 100px;
+}
+
+.navbar-container li {
+  list-style: none;
+}
